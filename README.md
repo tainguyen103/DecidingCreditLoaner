@@ -38,6 +38,10 @@ The following modules and packages were used in the implementation of this proje
 ## 5. Programming Report 
 The fully-annotated code report can be found in the MLDecidingCreditLoaner.ipynb file in the root directory of the project.
 
+## 6. Power BI Dashboard
+![dashboard-1](https://github.com/tainguyen103/DecidingCreditLoaner/assets/108405800/caf45bf1-81bd-4c9e-b4d7-344a0bcd8a1e)
+
+
 # Sub-Project 2: Mobile (Linear Discriminant Analysis)
 ![rodion-kutsaiev-0VGG7cqTwCo-unsplash](https://github.com/tainguyen103/DecidingCreditLoaner/assets/108405800/ee4a3b3d-0842-4138-b94c-b588755a8d32)
 

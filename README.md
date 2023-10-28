@@ -9,8 +9,12 @@
 
 Financial institutions that lend money to consumers usually rely on models to help decide on who to approve or decline for credit (for lending products such as credit cards, automobile loans, or home loans). This project aims to explore and fit a logistic regression model for such goal. 
 
+## 2. Dataset Description
+<img width="1094" alt="Screenshot 2023-10-28 at 02 25 19" src="https://github.com/tainguyen103/DecidingCreditLoaner/assets/108405800/c2dde4c4-c3fe-4cc2-8685-756d082ba22e">
 
-## 2. Process
+
+
+## 3. Process
 Steps that were carried out in the project:
 
 - Explore the data, specifically
@@ -42,8 +46,10 @@ The fully-annotated code report can be found in the MLDecidingCreditLoaner.ipynb
 
 The goal of this project is predict one of four price categories for a mobile phone device based on its features.
 
+## 2. Dataset Description
 
-## 2. Process
+
+## 3. Process
 Steps that were carried out in the project:
 
 - Explore the data, specifically

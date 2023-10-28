@@ -1,6 +1,8 @@
 # Machine Learning: Logistic Regression (Binary Classification) and Linear Discriminant Analysis (Multiclass Classification)
 
 # Project 1: Deciding Credit Loaner (Logistic Regression)
+![cardmapr-nl-5x7Zl8QXFvg-unsplash](https://github.com/tainguyen103/DecidingCreditLoaner/assets/108405800/0823027b-2789-408b-91f0-33df9e5c9cbe)
+
 
 
 ## 1. Objective
@@ -33,6 +35,7 @@ The following modules and packages were used in the implementation of this proje
 The fully-annotated code report can be found in the MLDecidingCreditLoaner.ipynb file in the root directory of the project.
 
 # Project 2: Mobile (Linear Discriminant Analysis)
+![rodion-kutsaiev-0VGG7cqTwCo-unsplash](https://github.com/tainguyen103/DecidingCreditLoaner/assets/108405800/ee4a3b3d-0842-4138-b94c-b588755a8d32)
 
 
 ## 1. Objective

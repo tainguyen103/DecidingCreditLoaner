@@ -1,7 +1,6 @@
 # Machine Learning: Logistic Regression (Binary Classification) and Linear Discriminant Analysis (Multiclass Classification)
 
 # Project 1: Deciding Credit Loaner (Logistic Regression)
-![cardmapr-nl-5x7Zl8QXFvg-unsplash](https://github.com/tainguyen103/DecidingCreditLoaner/assets/108405800/0823027b-2789-408b-91f0-33df9e5c9cbe)
 
 
 

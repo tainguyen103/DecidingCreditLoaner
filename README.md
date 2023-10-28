@@ -5,68 +5,49 @@
 
 ## 1. Objective
 
-The goal of this project is to leverage the Google Cloud API and Google Search to retrieve company email addresses. The project is designed to process a Google Sheet input containing the names of specific companies and, in return, provide their website links and contact email information. This tool proves valuable for individuals seeking to acquire organization email data on a broader scale.
-
-DISCLAIMER: Please note that this tool should not be utilized for generating spam emails or causing disruption to recipients.
-
-## 2. Demonstration
-Input:
-<img width="1791" alt="InputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/dd472539-90ba-40c4-aece-ce1a34de8eb7">
-
-Output:
-<img width="1791" alt="OutputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/0171f5b4-d129-4ebe-924f-987d2fd26630">
+Financial institutions that lend money to consumers usually rely on models to help decide on who to approve or decline for credit (for lending products such as credit cards, automobile loans, or home loans). This project aims to explore and fit a logistic regression model for such goal. 
 
 
-## 3. Process
+## 2. Process
 Steps that were carried out in the project:
 
-- Obtain a Google Sheet API authorization through Google Cloud API
-<img width="1791" alt="Screenshot 2023-10-27 at 23 37 35" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/9d34a020-9967-4da2-92de-5dbb0e0075b1">
-
-- Scrape company websites and emails utilizing serenium and Python
-  
-- Update the Google Sheet with information found
-
+- Explore the data, specifically
+- Clean data (handle missing values before fitting models)
+- Separate data into test and training sets
+- Fit the model
+- Produce and interpret confusion matrix
+- Plot ROC/AUC curve
 
 ## 4. Tools 
 
 The following modules and packages were used in the implementation of this project:
 
 - Python 3
-- BeautifulSoup4
-- Selenium
-- Pandas
-- Google Colab
+- pandas
+- NumPy
+- matplotlib
+- statsmodel
+- sklearn 
 
 ## 5. Programming Report 
-The code report can be found in the Report.ipynb file in the root directory of the project.
+The fully-annotated code report can be found in the MLDecidingCreditLoaner.ipynb file in the root directory of the project.
 
 # Project 2: Mobile (Linear Discriminant Analysis)
 
 
 ## 1. Objective
 
-The goal of this project is to leverage the Google Cloud API and Google Search to retrieve company email addresses. The project is designed to process a Google Sheet input containing the names of specific companies and, in return, provide their website links and contact email information. This tool proves valuable for individuals seeking to acquire organization email data on a broader scale.
-
-DISCLAIMER: Please note that this tool should not be utilized for generating spam emails or causing disruption to recipients.
-
-## 2. Demonstration
-Input:
-<img width="1791" alt="InputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/dd472539-90ba-40c4-aece-ce1a34de8eb7">
-
-Output:
-<img width="1791" alt="OutputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/0171f5b4-d129-4ebe-924f-987d2fd26630">
+The goal of this project is predict one of four price categories for a mobile phone device based on its features.
 
 
-## 3. Process
+## 2. Process
 Steps that were carried out in the project:
 
-- Obtain a Google Sheet API authorization through Google Cloud API
-<img width="1791" alt="Screenshot 2023-10-27 at 23 37 35" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/9d34a020-9967-4da2-92de-5dbb0e0075b1">
-
-- Scrape company websites and emails utilizing serenium and Python
-  
-- Update the Google Sheet with information found
+- Explore the data, specifically
+- Clean data (handle missing values before fitting models)
+- Separate data into test and training sets
+- Fit the model
+- Produce and interpret confusion matrix
 
 
 ## 4. Tools 
@@ -74,13 +55,14 @@ Steps that were carried out in the project:
 The following modules and packages were used in the implementation of this project:
 
 - Python 3
-- BeautifulSoup4
-- Selenium
-- Pandas
-- Google Colab
+- pandas
+- NumPy
+- matplotlib
+- statsmodel
+- sklearn 
 
 ## 5. Programming Report 
-The code report can be found in the Report.ipynb file in the root directory of the project.
+The fully-annotated code report can be found in the MLDecidingCreditLoaner.ipynb file in the root directory of the project.
 
 
 ## Contributor
